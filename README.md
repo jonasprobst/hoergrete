@@ -7,6 +7,7 @@ HörGrete is the open source sister of HörBert (http://www.hoerbert.com). It is
 ## Components
 
 - 10 layers of laser cut plywood (approximately A5)
+- 1 layer acrylic glass (also 4mm and of course laser cut)
 - 3 arcade buttons
 - 1 ON-ON Switch (to swith the 
 - 1 stereo audio amplifier
