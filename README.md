@@ -1,4 +1,4 @@
-# hoergrete
+# HörGrete
 
 HörGrete is the open source sister of HörBert (http://www.hoerbert.com). It is a tactile MP3 player for children built around the touch board from bareconductive (https://www.bareconductive.com). The drawings on the frontpanel are in conductive paint - toch a shape an the musik starts... it's magic!
 
