@@ -15,8 +15,8 @@ HörGrete is the open source sister of HörBert (http://www.hoerbert.com). It is
 - 1 single cell LiPo battery 
 - a bunch of wires
 - a couple pieces of fabric
-- hot glue
-- and lots of time and patients
+- lots of hot glue
+- and a considerable amount of time and patients
 
 see the "datasheets" folder for more details on the components. All the drawings you need the lasercut your own device are in the "body" folder.
 
